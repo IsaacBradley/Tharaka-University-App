@@ -1,6 +1,3 @@
-#Libraries used#
+#Libraries used include:
 
-Tkinter
-PIL
-Time
-Webbrowser
+Tkinter, PIL, Time and Webbrowser
