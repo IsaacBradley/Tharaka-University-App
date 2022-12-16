@@ -6,5 +6,5 @@ The Tharaka University Application comes handy in providing services and utiliti
 It is all what you need when it comes to web navigation, accessing all web services from one point, and in a click of a button.
 
 
-I did the app in Python using libraries such as Tkiter, Time, PIL and Webbrowser.
+I did the app in Python using these libraries; Tkiter, Time, PIL and Webbrowser.
  
