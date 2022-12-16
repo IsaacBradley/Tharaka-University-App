@@ -7,4 +7,5 @@ It is all what you need when it comes to web navigation, accessing all web servi
 
 
 I did the app in Python using these libraries; Tkiter, Time, PIL and Webbrowser.
+_Source code not uploaded due to copyright reasons_
  
