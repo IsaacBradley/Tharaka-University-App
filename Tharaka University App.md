@@ -1,4 +1,3 @@
-#Done in python
-##Libraries used include:
+Libraries used include:
 
 Tkinter, PIL, Time and Webbrowser
